@@ -61,7 +61,14 @@ Youtube : https://www.youtube.com/channel/UCd9qt44rLD7V-R15V2nrYnQ
 
 
 ### Thanks to
-   BITLEY :- PROJECT MANAGER 
+   Project Manager :- 
+██████      ██     ████████     ██          ███████     ██    ██ 
+██   ██     ██        ██        ██          ██           ██  ██  
+██████      ██        ██        ██          █████         ████   
+██   ██     ██        ██        ██          ██             ██    
+██████      ██        ██        ███████     ███████        ██    
+                                                                 
+                                                                 
 
 ### Contact us
 Dotcrypt
